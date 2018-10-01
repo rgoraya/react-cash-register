@@ -1,0 +1,21 @@
+.register-operations .form-group {
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.register-operations .input-group input {
+  padding: .375rem .375rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  text-align: center;
+}
+
+.register-operations .btn-flat-top {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0
+}
+
+.nav-tabs .nav-link {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}

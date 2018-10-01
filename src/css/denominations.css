@@ -1,0 +1,27 @@
+.denomination-card .card-body {
+  position: relative;
+} 
+
+.denomination-card .card-body .btn {
+  position: absolute;
+  height: 100%;
+  width: 25%;
+  opacity: 0.8;
+  top: 0;
+  padding: 0;
+}
+
+.denomination-card .card-body .btn:hover {
+  opacity: 1;
+}
+.denomination-card .card-body .btn.right {
+  right: 0;
+  border-bottom-left-radius: 200px;
+  border-top-left-radius: 200px;
+ }
+
+ .denomination-card .card-body .btn.left {
+  left: 0;
+  border-bottom-right-radius: 200px;
+  border-top-right-radius: 200px;
+ }
